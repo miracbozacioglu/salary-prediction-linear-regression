@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💼 Basit Doğrusal Regresyon ile Maaş Tahmini
+#  Basit Doğrusal Regresyon ile Maaş Tahmini
 
 **Deneyim yılına göre maaş tahmini yapan, uçtan uca bir makine öğrenmesi projesi**
 
